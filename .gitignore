@@ -1,1 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Mac metadata files
+.DS_Store
 ._*
+
+# Scores or other data
+scores.txt
